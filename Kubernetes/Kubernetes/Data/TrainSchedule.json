@@ -1,0 +1,74 @@
+{
+  "Id": 1,
+  "Name": "Fulton Street",
+  "Schedules": [
+    {
+      "Train": {
+        "Id": 1,
+        "Number": "2"
+      },
+      "ScheduleTime": [
+        "9:30 AM",
+        "10:30 AM",
+        "11:30 AM"
+      ]
+    },
+    {
+      "Train": {
+        "Id": 2,
+        "Number": "3"
+      },
+      "ScheduleTime": [
+        "9:30 AM",
+        "10:30 AM",
+        "11:35 AM"
+      ]
+    },
+    {
+      "Train": {
+        "Id": 3,
+        "Number": "3a"
+      },
+      "ScheduleTime": [
+        "9:35 AM",
+        "10:35 AM",
+        "12:50 PM"
+      ]
+    },
+    {
+      "Train": {
+        "Id": 1,
+        "Number": "2aaaaa"
+      },
+      "ScheduleTime": [
+        "9:30 AM",
+        "10:30 AM",
+        "11:30 AM"
+      ]
+    },
+    {
+      "Train": {
+        "Id": 1,
+        "Number": "EWR0"
+      },
+      "ScheduleTime": [
+        "9:30 AM",
+        "10:30 AM",
+        "11:30 AM",
+        "19:30 PM"
+      ]
+    },
+    {
+      "Train": {
+        "Id": 1,
+        "Number": "ALPY"
+      },
+      "ScheduleTime": [
+        "9:30 AM",
+        "10:30 AM",
+        "11:30 AM",
+        "19:30 PM"
+      ]
+    }
+  ]
+}
